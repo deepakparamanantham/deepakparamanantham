@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Paramanantham</h1>
 <h3 align="center">A passionate Data Analyst and HR from India</h3>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqammR48OkGtTFpo00TJXdCl4jLIsGB4cyoJoqHUDGmoiJMNpRv49XYmJ8-KxPnkIVxSg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakparamanantham&label=Profile%20views&color=0e75b6&style=flat" alt="deepakparamanantham" /> </p>
 
